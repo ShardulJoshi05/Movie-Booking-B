@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Header from "../../common/header/Header";
 
-import "./Confirmation.css";
+import "./Confirmatiion.css";
 
 import Typography from "@material-ui/core/Typography";
 import Input from "@material-ui/core/Input";
